@@ -1,2 +1,2 @@
-# lab2# 4102
+# lab2# CMPUT410
 ltong2
